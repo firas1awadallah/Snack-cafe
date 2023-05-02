@@ -8,5 +8,5 @@
 * How do you run tests? python lab1/snakes_cafe_intro.py
 
 
-[Pull Requests]([Class01.md](https://github.com/firas1awadallah/Snack-cafe/pull/1))
+[Pull Requests](https://github.com/firas1awadallah/Snack-cafe/pull/1)
 
